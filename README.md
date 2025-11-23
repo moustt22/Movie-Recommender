@@ -60,7 +60,7 @@ Movie-Recommender/
 
 ## Requirements
 
-Python 3.7+, streamlit, pandas, scikit-learn, joblib
+Python 3.11, streamlit, pandas, scikit-learn, joblib
 
 ## Data
 
